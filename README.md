@@ -15,6 +15,8 @@ $ npm start
 
 This website deploys the `master` branch to production via [Netlify](https://netlify.com) whenever a new commit appears. There's no extra steps required for the developer! :tada:
 
+## Guideline
+
 This is the base theme for building Apollo-branded Gatsby sites. It contains a small amount of configuration, and a handful of components that make it easy to build consistent-looking UIs.
 
 It comes with a few Gatsby plugins:
