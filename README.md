@@ -1,4 +1,4 @@
-# Principled GraphQL
+# NashTech Document - based on Apollo theme
 
 This website highlights best practices for implementing and scaling a data graph. It's built with [Gatsby](https://gatsbyjs.org) using [our custom theme](https://github.com/apollographql/gatsby-theme-apollo/tree/master/packages/gatsby-theme-apollo-core).
 
